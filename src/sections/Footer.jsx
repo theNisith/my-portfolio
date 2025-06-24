@@ -36,7 +36,7 @@ const Footer = () => {
           </div>
         ))}
       </div>
-      <p>© 2025 Ali. All rights reserved.</p>
+      <p>© 2025 Nisith. All rights reserved.</p>
     </section>
   );
 };
